@@ -1,3 +1,12 @@
+/*
+ * //////////////////////////////////////////////////////////////////////
+ *      PROGRAM: NUMBER_COUNTER/SCRIPTS.JS
+ *      Written by Nishan Subba
+ *      GitHub: @nisSubba2024
+ *      Purpose: Logic for number counter app
+ *      Last Date Modified: Dec 31, 2024
+ * //////////////////////////////////////////////////////////////////////
+ */
 const currentNumber = document.getElementById('number-holder');
 const decreaseBtn = document.getElementById('decrease-btn');
 const resetBtn = document.getElementById('reset-btn');
